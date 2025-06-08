@@ -1,6 +1,6 @@
 # furniture-company-automation-system-using-arraylist-and-linkedlist
 
-*See repo: furniture-company-automation-system-using-array*
+*See repo: furniture-company-automation-system-using-arrays*
 
 ArrayList and LinkedList implementations in the textbook are completed to be functional.
 A HybridList class that keeps a LinkedList as a component and the elements stored in the LinkedList are ArrayLists.
